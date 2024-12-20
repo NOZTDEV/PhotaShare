@@ -1,0 +1,55 @@
+.cuerpo{
+    margin-top: 10px;
+}
+.div_ver{
+    height: 700px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img_ver{
+    height: 100%;
+    margin: 10px;
+}
+
+
+.cabecera{
+    margin: 20px;
+}
+.icon_ver {
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+.btn_ver {
+    display: flex;
+    margin-bottom: -100px;
+    text-align: center;
+    align-items: center;
+}
+
+.divCerrar{
+    float: right;
+}
+.botonCerrar{
+    background-color: #bb0808;
+    height: 50px;
+    width: 50px;
+}
+
+.accion{
+    display:flex;
+}
+.escribir{
+    color: black;
+}
+
+.publicar{
+    background-color: #bb0808;
+    display: flex;
+}
+
+

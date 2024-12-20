@@ -1,0 +1,27 @@
+.box_subir {
+    width: 800px;
+    text-align: center;
+    border: 1px solid #bb0808;
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+
+.box_subir h2{
+    font-size: 18px;
+    background-color: #bb0808;
+    padding: 15px;
+}
+
+.group_catego {
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.subir_imagen {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}

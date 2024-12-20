@@ -1,0 +1,12 @@
+.splash {
+    background-color: #bb0808;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photoshare {
+    font-size: xx-large;
+    text-align: center;
+}
